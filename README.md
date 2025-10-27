@@ -6,7 +6,7 @@ A new Flutter project that serves as a **Login UI demo** for the Mobile Programm
 
 ---
 
-## 👥 Team Members (Kelompok)
+## 👥 Team Members (Kelompok 8)
 | No | Nama Lengkap   | NIM        |
 |----|----------------|------------|
 | 1  | **Rosadi**        | 232101023  |
