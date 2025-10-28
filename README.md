@@ -11,7 +11,7 @@ A new Flutter project that serves as a **Login UI demo** for the Mobile Programm
 |----|----------------|------------|
 | 1  | **Rosadi**        | 232101023  |
 | 2  | **Aldi**           | 232101280  |
-| 3  | **Muhamad Ghaji Al Ghifari**   | 232101032  |
+| 3  | **Muhamad Ghazi Al Ghifari**   | 232101032  |
 
 ---
 
