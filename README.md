@@ -1,7 +1,28 @@
-![alt text(https://github.com/sadi-prog/MOBPRO2_LoginUI_Rosadi_Aldi_MuhamadGaji/blob/main/assets/login.JPG?raw=true)
-# flutter_tugaslogin
+# 🚀 flutter_tugaslogin
 
-A new Flutter project.
+![Login Page](https://github.com/sadi-prog/MOBPRO2_LoginUI_Rosadi_Aldi_MuhamadGaji/blob/main/assets/login.JPG?raw=true)
+
+A new Flutter project that serves as a **Login UI demo** for the Mobile Programming 2 course.
+
+---
+
+## 👥 Team Members (Kelompok 8)
+| No | Nama Lengkap   | NIM        |
+|----|----------------|------------|
+| 1  | **Rosadi**        | 232101023  |
+| 2  | **Aldi**           | 232101280  |
+| 3  | **Muhamad Ghazi Al Ghifari**   | 232101032  |
+
+---
+
+## 📱 Deskripsi Project
+Aplikasi ini menampilkan halaman **Login UI Flutter** dengan fitur dasar:
+- Input **Email / Username**
+- Input **Password**
+- Tombol **Login** dan **Register**
+- Desain responsif dan user-friendly
+
+---
 
 ## Getting Started
 
