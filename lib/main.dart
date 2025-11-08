@@ -1,18 +1,15 @@
 import 'package:flutter/material.dart';
-import 'tugaslogin.dart'; // pastikan file ini ada di folder lib/
 
-void main() {
-  runApp(const MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class TugasLoginPage extends StatelessWidget {
+  const TugasLoginPage({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: TugasLoginPage(),
+    return Scaffold(
+      appBar: AppBar(title: const Text('Halaman Login')),
+      body: const Center(
+        child: Text('Ini Halaman Login Kamu'),
+      ),
     );
   }
 }
